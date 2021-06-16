@@ -14,3 +14,4 @@ provider:
 functions:
   hello:
     handler: handler.hello
+    memory: 128
